@@ -1,0 +1,13 @@
+.carousel-item img{
+    
+    margin-top: 20px;
+    height: 700px;
+    
+}
+
+
+.nav-item ul{
+    float: left;
+    width: 100%;
+    background-color:aqua;
+}
