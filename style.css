@@ -33,9 +33,6 @@
 
 
 
-.container .navbar-nav.mr-auto{
-    background-color:orange;
-}
 
 
 header{
@@ -107,4 +104,11 @@ header{
     font-weight: 500;
     margin-left: 578px;
     
+}
+
+.container  .image{
+    width:32%;
+    float:left;
+    height:50%;
+    margin:7px;
 }
